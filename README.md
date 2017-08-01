@@ -3,7 +3,7 @@ WebAssembly Demo
 
 Testing out WebAssembly by integrating C with JavaScript.
 
-Simple Example
+Simple HTML Example
 --------------
 
 Following along [here](http://webassembly.org/getting-started/developers-guide/), we need to install and configure the Emscripten SDK.
