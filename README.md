@@ -11,6 +11,8 @@ Following along [here](http://webassembly.org/getting-started/developers-guide/)
 Once the SDK is installed, add these variables to your path.
 
 ```bash
+# Emscripten Configs
+# Adding directories to PATH:
 export PATH=/Users/nick/cloned-repositories/emsdk:$PATH
 export PATH=/Users/nick/cloned-repositories/emsdk/clang/fastcomp/build_incoming_64/bin:$PATH
 export PATH=/Users/nick/cloned-repositories/emsdk/node/4.1.1_64bit/bin:$PATH
