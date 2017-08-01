@@ -1,0 +1,8 @@
+{
+  "name": "webassemly",
+  "version": "1.0.0",
+  "description": "Playing around with web assembly",
+  "main": "index.js",
+  "author": "Nick Zuber <zuber.nicholas@gmail.com>",
+  "license": "MIT"
+}
