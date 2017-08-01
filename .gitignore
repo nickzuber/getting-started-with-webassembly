@@ -1,4 +1,10 @@
+# Directories
 node_modules
 .DS_Store
 npm-debug.log
+
+# Wasm output files
+program.html
+program.js
+program.wasm
 
