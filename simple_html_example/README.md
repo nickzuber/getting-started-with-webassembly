@@ -13,7 +13,7 @@ Then serve the output over HTTP.
 ❯ emrun --no_browser --port 8080 .
 ```
 
-Run the following commands:
+You can run those commands mentioned above or simply run the following commands instead:
 
 ```
 ❯ make compile_html
