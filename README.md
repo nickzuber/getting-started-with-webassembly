@@ -3,8 +3,8 @@ WebAssembly Demo
 
 Testing out WebAssembly by integrating C with JavaScript.
 
-Simple HTML Example
---------------
+Getting Started
+---------------
 
 Following along [here](http://webassembly.org/getting-started/developers-guide/), we need to install and configure the Emscripten SDK.
 
@@ -26,12 +26,7 @@ export EMSCRIPTEN=/Users/nick/cloned-repositories/emsdk/emscripten/incoming
 export BINARYEN_ROOT=/Users/nick/cloned-repositories/emsdk/binaryen/master_64bit_binaryen
 ```
 
-Then, run the following commands:
+Simple HTML Example
+-------------------
 
-```
-❯ make compile_html
-❯ make run_server
-```
-
-And visit `http://localhost:8080/program.html` to see your output!
-
+[Get started here](https://github.com/nickzuber/webassembly-demo/blob/master/simple_html_example)!
